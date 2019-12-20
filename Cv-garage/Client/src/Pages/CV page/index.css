@@ -1,0 +1,202 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* max-width: 210mm !important;
+    min-width: 210mm !important;
+    min-height: 297mm !important;
+    max-height: 297mm !important;
+     */
+}
+
+.A4 {
+  max-width: 210mm !important;
+  min-width: 210mm !important;
+  min-height: 297mm !important;
+  max-height: 297mm !important;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding: 0.39in 0.38in 0.38in 0.39in;
+  box-sizing: content-box;
+  background-color: rgba(51, 47, 47, 0);
+}
+/* 
+  .theRight {
+    width: 68%;
+    height: 100%;
+    margin: 10px;
+    /* border: solid 1px black; */
+/* } */
+
+.theLeft {
+  width: 28%;
+  height: 100%;
+  margin-right: 10px;
+  /* border: solid 1px black; */
+}
+*/ .react-resume {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding: 0.39in 0.38in 0.38in 0.39in;
+  box-sizing: content-box;
+  background-color: rgba(51, 47, 47, 0);
+}
+
+.letter {
+  max-width: 8.5in !important;
+  min-width: 8.5in !important;
+  min-height: 11in !important;
+  max-height: 11in !important;
+}
+
+.a4 {
+  max-width: 210mm !important;
+  min-width: 210mm !important;
+  min-height: 297mm !important;
+  max-height: 297mm !important;
+}
+
+.legal {
+  max-width: 8.5in !important;
+  min-width: 8.5in !important;
+  min-height: 14in !important;
+  max-height: 14in !important;
+}
+
+.react-resume h1 {
+  font-size: 28px;
+  margin-top: 0;
+}
+
+.react-resume h2 {
+  font-size: 21px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.react-resume h3 {
+  font-size: 17px;
+  margin: 0;
+}
+
+.resume {
+  font-size: 17px;
+  padding: 0;
+  margin: 0;
+}
+
+.resume-header {
+  text-align: center;
+}
+
+.resume-header h1 {
+  margin-bottom: 0;
+}
+
+.resume-header hr:nth-of-type(1) {
+  height: 1px;
+  background-color: black;
+}
+
+.resume-header ul {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  margin-top: 5px;
+  padding: 0;
+}
+
+.resume-header li {
+  list-style: none;
+  display: inline;
+  font-size: 19px;
+}
+
+.image-icon {
+  width: 13px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+}
+
+.whatever-education {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.education-subcomponent {
+  text-align: left;
+}
+
+.education-h2 {
+  text-align: left;
+}
+
+.education-one {
+  display: flex;
+  flex-direction: column;
+}
+
+.experiencediv {
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.experiencedate {
+  font-size: 20px;
+}
+
+.projectBlock {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.certificationBlock {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.certificationContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.one-certificate {
+  margin-bottom: -15px;
+}
+
+.AdditionalInfoStuff {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+.AdditionalPara {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
+
+
+.boutonpdf {
+
+  display: flex;
+  margin: 20px;
+}
+
+.boutondashboard{
+  display: flex;
+  margin: 20px;
+}

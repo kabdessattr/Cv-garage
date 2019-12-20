@@ -1,0 +1,59 @@
+.CvModern {
+  size: A4;
+  margin: 0;
+  width: 210mm;
+  height: 297mm;
+  border: solid black 1px;
+  /* font-style: italic; */
+  font-family: 'Baskervville', serif;
+}
+.Personnel {
+  display: flex;
+  flex-direction: column;
+  justify-content:first baseline;
+  padding-top: 30%;
+  margin: 2%;
+  
+}
+.infPersonel {
+  background-color: #387aa9;
+}
+.imgcv {
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+}
+.Personnel0 {
+  display: flex;
+  flex-direction: column;
+  justify-content:baseline;
+  padding-top: 30%;
+
+}
+i {
+  padding: 7%;
+}
+.Personnel1 {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50%;
+}
+.Inf {
+  color: white;
+}
+.Personnel2 {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50%;
+}
+.Exp{
+color: #387aa9;
+font-size: 25px;
+}
+.Cardglobal{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+

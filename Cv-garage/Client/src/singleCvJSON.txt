@@ -1,0 +1,43 @@
+{
+    "_id" : ObjectId("5de14a679edd940bc0fff5d1"),
+    "firstname" : "Khaled",
+    "lastname" : "Abdessattar",
+    "email" : "khaled@gmail.com",
+    "phone" : "23611779",
+    "address" : "Rue rass zebbi, dra win, bled el nik",
+    "academicExperience" : {
+        "universityName" : "University of tafrik",
+        "degreeType" : "Bachelor's degree",
+        "dateFrom" : "11-12-2019",
+        "dateTo" : "20-1-2020"
+    },
+    "experience" : {
+        "experienceName" : "Manager of all",
+        "companyWhere" : "Wherever",
+        "experienceSummary" : "writing whatever here",
+        "experienceTask" : "Doing this and that and blablabla",
+        "experienceDateFrom" : "11-2-2011",
+        "experienceDateTo" : "12-3-2012"
+    },
+    "technicalSkills" : {
+        "devLanguages" : "JavaScript, Python, PHP",
+        "devTechnologies" : "React, Angular, React Native"
+    },
+    "projectsWorked" : {
+        "projectName" : "Whatever name",
+        "description" : "bi3an el ri7 lel mrekeb",
+        "details" : "Whatever the description of the product is",
+        "dateFrom" : "01-01-2019",
+        "dateTo" : "02-02-2020"
+    },
+    "certifications" : {
+        "certificationIssuer" : "Google Inc",
+        "certificationDate" : "11-05-2012"
+    },
+    "AdditionalInformation" : {
+        "driversLicense" : "Yes",
+        "dateOfBirth" : "12-5-2000",
+        "languageSkills" : "English: fluent, Arabic: fluent",
+        "Hobbies" : "Playing Tennis"
+    }
+}
